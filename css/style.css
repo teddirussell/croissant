@@ -1,5 +1,5 @@
 body {
-    background: #f8e8a6;
+    background: pink;
   }
   
   h1,
@@ -8,8 +8,8 @@ body {
   }
   
   .croissant-photo {
-    max-width: 50%;
-    border-radius: 10px;
+    max-width: 40%;
+    border-radius: 15px;
     display: block;
     margin: 30px auto;
   }
